@@ -11,7 +11,7 @@
     <body>
         <div class="panel panel-primary dragzone">
             <div class="panel-heading">
-                Upload and Crop Photo with Drag and Drop -- Sourav
+                Upload and Crop Photo with Drag and Drop
             </div>
             <div class="panel-body profileimagesection">
                 <div class="hide" id="uploadprogress"><i class="fa fa-spinner fa-4x fa-spin"></i>Uploading...Please wait</div>
